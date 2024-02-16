@@ -5,7 +5,7 @@ A socio-demographic Dataset fOr Varieties of English (v1.0)
 DOI: tba
 
 ## About 
-This dataset comprises socio-demographic information for XX varieties of English spoken world-wide. DoVE was designed for studying the relationship between extra-linguistic triggers (aka socio-demographic information) and morphosyntactic variation in English varieties, with a focus on language complexity. In total it comprises information on 16 extra-linguistic triggers which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
+This dataset comprises socio-demographic information for 68 varieties of English spoken world-wide. DoVE was designed for studying the relationship between extra-linguistic triggers (aka socio-demographic information) and morphosyntactic variation in English varieties, with a focus on language complexity. In total it comprises information on 16 extra-linguistic triggers which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
 
 ### Overview of extra-linguistic triggers
 
@@ -25,6 +25,8 @@ This dataset comprises socio-demographic information for XX varieties of English
 ||Population size/Speech community (11)|Number of native and non-native speakers in a given territory/country|population|
 ||Status as official language (12)|Is English an official language? |official (yes/no)|
 ||Percentage of literacy (13) |percentage of adult literacy 15+ both sexes|literacy, literacy_rounded |
+| | Education (14) |mean years of schooling | education|
+|| Percentage of urban population (15) | Percentage of urban population| urban_pop |
 ||GNI (16) |Gross national income per capita (GNI) | GNI|
 
 Table 1: Overview of extra-linguistic triggers by category. Numbers provided in parentheses for each operationalised parameter refer to the section number in the descriptive documents.
@@ -32,3 +34,7 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 ### Release date
 
 DoVE will be made publicly available in 2026.
+
+### Related publications
+
+tba
