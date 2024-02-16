@@ -19,7 +19,7 @@ This dataset comprises socio-demographic information for XX varieties of English
 |  | Number of contact languages (5)  |  Languages spoken by at least 10% of the population of the respective country/territory, all languages spoken in a country/territoty | contact_languages, all_languages |
 |   | Number of source languages (6)  |  The contributing source language (only for pidgins and creoles), if known|  source_languages | 
 ||Official bilingualism/multilingualism (7) | Are two or more languages listed as official language(s)? | bilingualism (yes/no)|
-|Socio-historical background|Variety type (8)|Variety type as listed in eWAVE 3.0| language_type |
+|Socio-historical background|Variety type (8)|Variety type as listed in [eWAVE 3.0](https://ewave-atlas.org/)| language_type |
 |Society/demography|Number of native speakers (9) | Number of native speakers per national territory/variety | natives |
 ||Number of non-native speakers (10)|Number of non- native speakers per national territory/variety|non-natives|
 ||Population size/Speech community (11)|Number of native and non-native speakers in a given territory/country|population|
