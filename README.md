@@ -27,8 +27,6 @@ This dataset comprises socio-demographic information for XX varieties of English
 ||Percentage of literacy (13) |percentage of adult literacy 15+ both sexes|literacy, literacy_rounded |
 ||GNI (16) |Gross national income per capita (GNI) | GNI|
 
-
-
 Table 1: Overview of extra-linguistic triggers by category. Numbers provided in parentheses for each operationalised parameter refer to the section number in the descriptive documents.
 
 ### Release date
