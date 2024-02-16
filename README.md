@@ -1,10 +1,10 @@
 # DoVE 
 
-A socio-demographic Dataset fOr Varieties of English (v1.0)
+## A socio-demographic Dataset fOr Varieties of English (v1.0)
 
 DOI: tba
 
-## About 
+### About 
 This dataset comprises socio-demographic information for 68 varieties of English spoken world-wide. DoVE was designed for studying the relationship between extra-linguistic triggers (aka socio-demographic information) and morphosyntactic variation in English varieties, with a focus on language complexity. In total it comprises information on 16 extra-linguistic triggers which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
 
 ### Overview of extra-linguistic triggers
