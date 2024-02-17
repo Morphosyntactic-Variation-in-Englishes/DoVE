@@ -35,7 +35,9 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 
 ### File and folder structure
 
-data
+* data
+
+* documentation
 
 ### Release note
 
@@ -43,9 +45,9 @@ The full dataset (DOVE v2.0) will be made publicly available in December 2026.
 
 ### Copyright and citation
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
+This work is licensed under
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
@@ -61,5 +63,10 @@ DOI: tba
 
 ### Acknowledgements
 
+As part of project MoVE, DOVE was generously funded by the Fritz Thyssen Foundation, Cologne, Germany, through Support of projects (grant no. 20.23.0.009SL).
+
+Many thanks also go to my colleagues, all experts in one or more of the varieties comprised in this dataset for providing missing information on socio-demographic variables, helfpul suggestions and references to other sources: 
+
+List tba
 
 
