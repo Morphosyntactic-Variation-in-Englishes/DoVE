@@ -6,9 +6,13 @@ DOI: tba
 
 ### About 
 
-This dataset comprises extensive socio-demographic information for 71 varieties of English spoken world-wide. DOVE was compiled as part of the project [MoVE](https://sites.google.com/site/katlehret/research/MoVE) (Extra-linguistic triggers of Morphosyntactic Variation in Englishes) and was designed for studying the relationship between extra-linguistic triggers (aka socio-demographic information) and morphosyntactic variation in English varieties, with a focus on language complexity. In total, it comprises information on 16 extra-linguistic triggers which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
+This dataset comprises extensive socio-demographic information for 71 varieties of English spoken world-wide. In total, DOVE comprises information on 16 extra-linguistic triggers (aka socio-demographic information) which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
 
-DOVE v1.0 publishes a subset of the full dataset. It samples 17 varieties of English and covers 9 of the extra-linguistic triggers described below. The full dataset will be made publicly available in December 2026.
+DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyntactic Variation in Englishes](https://sites.google.com/site/katlehret/research/MoVE) (MoVE) and was designed for studying the relationship between extra-linguistic triggers and morphosyntactic variation in English varieties, with a focus on language complexity. DOVE builds on and complements the information contained in the [electronic World Atlas of Varieties of English ](https://ewave-atlas.org/) (eWAVE), the currently largest database of morphosyntactic features in Englishes (Kortmann et al. 2020). 
+
+> [!NOTE]
+>  DOVE v1.0 publishes a subset of the full dataset. It samples 17 varieties of English and covers 9 of the extra-linguistic triggers described below. The full dataset will be made publicly
+> available in December 2026.
 
 ### Overview of extra-linguistic triggers
 
@@ -35,9 +39,16 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 
 ### File and folder structure
 
-* data
+* :file_folder: data
 
-* documentation
+  * languages_DOVE1.0_23Jan2024.csv -- a spreadsheet containing socio-demographic information for 17 varieties of English (covering 9 extra-linguistic triggers) and additional descriptive information such as variety name or abbreviation.
+
+* :file_folder: documentation
+
+  * geography.pdf -- definitions, description and detailed documentation of sources for geographic triggers.
+  * contact.pdf - definitions, description and detailed documentation of sources for triggers of language contact.
+  * demography.pdf -- definitions, description and detailed documentation of sources for demographic and socio-historical triggers.
+  * additional.pdf -- documentation of coding and sources for additional descriptive information. 
 
 ### Release note
 
