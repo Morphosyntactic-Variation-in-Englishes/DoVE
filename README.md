@@ -76,8 +76,8 @@ DOI: tba
 
 As part of project MoVE, DOVE was generously funded by the Fritz Thyssen Foundation, Cologne, Germany, through Support of projects (grant no. 20.23.0.009SL).
 
-Many thanks also go to my colleagues, all experts in one or more of the varieties comprised in this dataset for providing missing information on socio-demographic variables, helfpul suggestions and references to other sources: 
+Many thanks also go to my colleagues, all experts in one or more of the varieties comprised in this dataset for providing missing information on socio-demographic variables, helfpul suggestions and references to other sources (in alphebetical order): 
 
-List tba
+Robert Bailey, Laurie Bauer, Tobias Bernaisch, Ariane Macalinga Borlongan, Alfred Buregeya, David Britain, Sandra Clarke, Dagmar Deuber, Michael Ellis, Sabine Erhart, Nick Faraclas, Markku Filppula, Hans Fonka, Stephanie Hackert, Raymond Hickey, Magnus Huber, Jakob Leimgruber, Robert Mailhammer, Christian Mair, Miriam Meyerhoff, Michael Meyler, Bettina Migge, Salikoko Mufwene, Peter Mühlhäusler, Daniel Nkemleke, Stefanie Pillai, Raymond Oenbring, Heidi Quinn, Anna Rosen, Jeffrey Reaser, Mark Sebba, Jeff Siegel, Kingsley Ugwuanyi
 
 
