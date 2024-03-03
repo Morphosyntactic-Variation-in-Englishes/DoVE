@@ -41,14 +41,15 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 
 * :file_folder: data
 
-  * languages_DOVE1.0_23Jan2024.csv -- a spreadsheet containing socio-demographic information for 17 varieties of English (covering 9 extra-linguistic triggers) and additional descriptive information such as variety name or abbreviation.
+  * languages_DOVE1.0_DDMonthYY.csv -- a spreadsheet containing socio-demographic information for 71 varieties of English and additional descriptive information such as variety name or abbreviation.
 
 * :file_folder: documentation
 
   * geography.pdf -- definitions, description and detailed documentation of sources for geographic triggers.
   * contact.pdf -- definitions, description and detailed documentation of sources for triggers of language contact.
   * demography.pdf -- definitions, description and detailed documentation of sources for demographic and socio-historical triggers.
-  * additional.pdf -- documentation of coding and sources for additional descriptive information. 
+  * additional.pdf -- documentation of coding and sources for additional descriptive information.
+  * appendix.pdf -- detailed description of how English varieties in Suriname and French Guinea have been guesstimated.
 
 ### Release note
 
