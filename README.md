@@ -10,10 +10,6 @@ This dataset comprises extensive socio-demographic information for 71 varieties 
 
 DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyntactic Variation in Englishes](https://sites.google.com/site/katlehret/research/MoVE) (MoVE) and was designed for studying the relationship between extra-linguistic triggers and morphosyntactic variation in English varieties, with a focus on language complexity. DOVE builds on and complements the information contained in the [electronic World Atlas of Varieties of English ](https://ewave-atlas.org/) (eWAVE), the currently largest database of morphosyntactic features in Englishes (Kortmann et al. 2020). 
 
-> [!NOTE]
->  DOVE v1.0 publishes a subset of the full dataset. It samples 17 varieties of English and covers 9 of the extra-linguistic triggers described below. The full dataset will be made publicly
-> available in December 2026.
-
 ### Overview of extra-linguistic triggers
 
 Table 1: Overview of extra-linguistic triggers by category. Numbers provided in parentheses for each operationalised parameter refer to the section number in the documentation of sources.
@@ -53,7 +49,7 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 
 ### Release note
 
-The full dataset (DOVE v2.0) will be made publicly available in December 2026.
+DOVE v1.0 is currently not openly accessible but access may be granted upon request. The full dataset will be made publicly available in December 2026.
 
 ### Copyright and citation
 
