@@ -14,7 +14,7 @@ DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyn
 
 Table 1: Overview of extra-linguistic triggers by category. Numbers provided in parentheses for each operationalised parameter refer to the section number in the documentation of sources.
 
-| Category/construct | Operationalised parameter | Description | Variable name | 
+| Category/construct | Operationalised parameter | Brief description | Variable name | 
 | ------------- | ------------- | ------------- | ------------- |
 | Geography  | Geographic spread (1)  | Country size in km²; if applicable territory, region or land area for islands | spread |
 |   | Coordinates (2)  | Longitude and latitude WGS84 of the sociolinguistic centre/administrative centre/capital| longitude, latitude | 
