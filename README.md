@@ -20,7 +20,7 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 |   | Coordinates (2)  | Longitude and latitude WGS84 of the sociolinguistic centre/administrative centre/capital| longitude, latitude | 
 |  |Region (3) |World region and micro region | region, region_micro |
 |  Contact | Proportion of non-native speakers (4) | Calculated as the percentage of non-native speakers in relation to population size | prop_non-natives | 
-|  | Number of contact languages (5)  |  Languages spoken by at least 10% of the population of the respective country/territory; all languages spoken in a country/territoty | contact_languages; all_languages |
+|  | Number of contact languages (5)  |  Languages spoken by at least 10% of the population of the respective country/territory; all L1 languages spoken in a country/territoty | contact_languages; all_L1 |
 |   | Number of source languages (6)  |  The contributing source language (only for pidgins and creoles), if known|  source_languages | 
 ||Official bilingualism/multilingualism (7) | Are two or more languages listed as official language(s)? | bilingualism (yes/no)|
 |Socio-historical background|Variety type (8)|Variety type as listed in [eWAVE 3.0](https://ewave-atlas.org/)| language_type |
