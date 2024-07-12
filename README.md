@@ -6,9 +6,9 @@ DOI: tba
 
 ### About 
 
-This dataset comprises extensive socio-demographic information for 71 varieties of English spoken world-wide. In total, DOVE comprises information on 16 extra-linguistic triggers (aka socio-demographic information) which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
+This dataset comprises extensive socio-demographic information for 72 spontaneous spoken varieties of English spoken world-wide. In total, DOVE comprises information on 16 extra-linguistic triggers (aka socio-demographic information) which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
 
-DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyntactic Variation in Englishes](https://sites.google.com/site/katlehret/research/MoVE) (MoVE) and was designed for studying the relationship between extra-linguistic triggers and morphosyntactic variation in English varieties, with a focus on language complexity. DOVE builds on and complements the information contained in the [electronic World Atlas of Varieties of English ](https://ewave-atlas.org/) (eWAVE), the currently largest database of morphosyntactic features in Englishes (Kortmann et al. 2020). 
+DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyntactic Variation in Englishes](https://sites.google.com/site/katlehret/research/MoVE) (MoVE) and was designed for studying the relationship between extra-linguistic triggers and morphosyntactic variation in spontaneous spoken English varieties, with a focus on language complexity. DOVE builds on and complements the information contained in the [electronic World Atlas of Varieties of English ](https://ewave-atlas.org/) (eWAVE), the currently largest database of morphosyntactic features in Englishes (Kortmann et al. 2020). 
 
 ### Overview of extra-linguistic triggers
 
