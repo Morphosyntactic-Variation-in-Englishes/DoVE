@@ -75,6 +75,6 @@ As part of project MoVE, DOVE was generously funded by the [Fritz Thyssen Founda
 
 Many thanks also go to my colleagues, all experts in one or more of the varieties comprised in this dataset for providing missing information on socio-demographic variables, helfpul suggestions and references to other sources (in alphabetical order): 
 
-Robert Bailey, Laurie Bauer, Tobias Bernaisch, Ariane Macalinga Borlongan, Alfred Buregeya, David Britain, Sandra Clarke, Dagmar Deuber, Michael Ellis, Sabine Erhart, Nick Faraclas, Markku Filppula, Hans Fonka, Stephanie Hackert, Raymond Hickey, Magnus Huber, Jakob Leimgruber, Robert Mailhammer, Christian Mair, Miriam Meyerhoff, Michael Meyler, Bettina Migge, Salikoko Mufwene, Peter Mühlhäusler, Daniel Nkemleke, Stefanie Pillai, Raymond Oenbring, Heidi Quinn, Anna Rosen, Jeffrey Reaser, Mark Sebba, Jeff Siegel, Kingsley Ugwuanyi
+Robert Bailey, Laurie Bauer, Tobias Bernaisch, Ariane Macalinga Borlongan, Alfred Buregeya, David Britain, Sandra Clarke, Dagmar Deuber, Michael Ellis, Sabine Erhart, Sandra Evans, Nick Faraclas, Markku Filppula, Hans Fonka, Stephanie Hackert, Raymond Hickey, Magnus Huber, Jakob Leimgruber, Robert Mailhammer, Christian Mair, Miriam Meyerhoff, Michael Meyler, Bettina Migge, Salikoko Mufwene, Peter Mühlhäusler, Daniel Nkemleke, Stefanie Pillai, Raymond Oenbring, Heidi Quinn, Anna Rosen, Jeffrey Reaser, Mark Sebba, Jeff Siegel, Kingsley Ugwuanyi
 
 
